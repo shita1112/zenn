@@ -1,0 +1,11 @@
+title: "猫でもわかるHotwire入門 Turbo編"
+summary: |-
+  この本ではHotwireの基本的な使い方について解説します。
+
+  Rails7からフロントエンドのデフォルトにHotwireが採用されたのですが、まだあんまり日本語の情報が無かったので本にまとめました。Turboをメインに扱っていますが、Stimulusも扱っています。
+
+  Hotwireの最初の1冊として読んでいただけますと幸いです🙇‍♂️
+topics: ["hotwire", "turbo", "stimulus", "rails", "ruby"]
+published: true
+price: 0
+toc_depth: 1 # 目次の見出しレベル(1~3)
